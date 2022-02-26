@@ -2,7 +2,7 @@
 # Maintainer: Uroš Vampl <mobile.leecher at gmail dot com>
 
 pkgname=tigervnc-qern
-pkgver=1.12.0
+pkgver=1.12.1
 pkgrel=1
 _xorgver=21.1.3
 pkgdesc="Suite of VNC servers and clients. Based on the VNC 4 branch of TightVNC."
